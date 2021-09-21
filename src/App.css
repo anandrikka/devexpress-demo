@@ -1,0 +1,13 @@
+.dx-button-mode-contained.dx-button-default {
+  margin: 0 10px;
+}
+
+.dxdi-toolbox .dxdi-canvas .toolbox-item > rect:first-child,
+.dxdi-toolbox .dxdi-canvas .toolbox-item > ellipse:first-child,
+.dxdi-toolbox .dxdi-canvas .toolbox-item > path:first-child {
+  stroke: transparent;
+}
+
+.dxdi-canvas .toolbox-item .selector {
+  height: 50px;
+}

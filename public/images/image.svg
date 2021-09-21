@@ -1,0 +1,10 @@
+<svg width="120" height="75" xmlns="http://www.w3.org/2000/svg">
+  <g id="Layer_1">
+    <title>Layer 1</title>
+    <rect stroke="#000" id="svg_1" height="79" width="140" y="102.4" x="78.6" fill="#fff"/>
+    <text textAnchor="start" fontSize="24" strokeWidth="0" id="svg_2" y="123.4" x="260.6" stroke="#000" fill="#000000">sadasd</text>
+    <ellipse stroke="#000" ry="15" rx="25" id="svg_3" cy="35.8" cx="27" fill="#fff"/>
+    <text textAnchor="start" fontSize="8" strokeWidth="0" id="svg_6" y="29.8" x="55" stroke="#000" fill="#000000">Branch (US)</text>
+    <text textAnchor="start" fontSize="8" strokeWidth="0" id="svg_7" y="46.8" x="54" stroke="#000" fill="#000000">Branch (Local)</text>
+  </g>
+</svg>
